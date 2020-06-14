@@ -1,0 +1,12 @@
+User_ID,Work_Time_Preference,Team_Work_Time_Preference,Alignment_of_Work,Group_Size_Preference,Mode_of_Communication_Preference,Style_of_Communication_Preference,Learn_and_Work_Preference,Team_Learn_and_Work_Preference,Working_Hours_Preference,Team_Working_Hours_Preference,Duration_of_Project_Preference,Tracks_Worked_On
+1,1,0,2,4,0,2,0,0,10,5,2,Machine Learning.Data Science.Embedded Systems
+2,1,0,2,2,0,1,0,0,5,15,2,Full Stack Developement.Data Science
+3,2,0,2,2,0,1,0,0,10,10,2,Deep Learning
+4,1,0,0,3,1,1,0,0,15,10,1,Full Stack Developement
+5,2,1,1,0,4,0,0,0,5,10,1,Cryptocurrency
+6,2,0,2,4,0,0,2,0,10,0,0,Cryptography.Networking
+7,1,0,2,4,0,2,0,0,10,5,2,Game Designing.Full Stack Developement
+8,2,1,1,0,4,0,0,0,5,10,1,Cryptography.Networking
+9,2,0,2,2,0,1,0,0,10,10,2,Embedded Systems.Internet Of Things
+10,2,2,2,4,0,0,2,0,10,15,0,Machine Learning.Deep Learning
+11,1,0,2,4,0,2,0,0,15,5,2,Machine Learning.Data Science
